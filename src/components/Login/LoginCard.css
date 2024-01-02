@@ -1,0 +1,22 @@
+.login {
+    background-color: #06668C;
+    align-items: center;
+    flex-direction:row;
+    width: 50%; 
+    height: auto;
+  }
+
+.image-logo {
+  width: 200%;
+  height: auto;
+  
+}  
+.input-section {
+  flex: 1; 
+  margin-left: 30%;
+}
+
+.title {
+    color: white;
+
+}
